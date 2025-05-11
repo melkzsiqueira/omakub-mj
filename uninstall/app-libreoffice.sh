@@ -1,1 +1,1 @@
-sudo apt remove -y libreoffice
+yay -Rns libreoffice --noconfirm

@@ -1,1 +1,1 @@
-sudo apt remove -y mainline
+yay -Rns mainline --noconfirm
